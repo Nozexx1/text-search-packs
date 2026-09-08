@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "author": "TextSearch Pro",
+  "updated": "2024-01-01",
+  "packs": [
+    {
+      "id": "ai",
+      "name": "ИИ и нейросети",
+      "icon": "🤖",
+      "desc": "Термины искусственного интеллекта, машинного обучения и нейросетей",
+      "file": "packs/ai.json",
+      "wordCount": 30,
+      "synCount": 150
+    },
+    {
+      "id": "medicine",
+      "name": "Медицина",
+      "icon": "🏥",
+      "desc": "Медицинские и клинические термины, диагностика, лечение",
+      "file": "packs/medicine.json",
+      "wordCount": 27,
+      "synCount": 135
+    },
+    {
+      "id": "business",
+      "name": "Бизнес и финансы",
+      "icon": "💼",
+      "desc": "Деловая лексика, финансовые термины, маркетинг и управление",
+      "file": "packs/business.json",
+      "wordCount": 27,
+      "synCount": 135
+    },
+    {
+      "id": "it",
+      "name": "IT и разработка",
+      "icon": "💻",
+      "desc": "Программирование, веб-разработка, DevOps и системное администрирование",
+      "file": "packs/it.json",
+      "wordCount": 28,
+      "synCount": 140
+    },
+    {
+      "id": "science",
+      "name": "Наука и образование",
+      "icon": "🔬",
+      "desc": "Научная терминология, академическая лексика и образовательные термины",
+      "file": "packs/science.json",
+      "wordCount": 27,
+      "synCount": 135
+    },
+    {
+      "id": "law",
+      "name": "Юриспруденция",
+      "icon": "⚖️",
+      "desc": "Юридические термины, правовая лексика, судебная система",
+      "file": "packs/law.json",
+      "wordCount": 26,
+      "synCount": 130
+    },
+    {
+      "id": "emotions",
+      "name": "Эмоции и чувства",
+      "icon": "💭",
+      "desc": "Слова для описания эмоций, настроений и психологических состояний",
+      "file": "packs/emotions.json",
+      "wordCount": 26,
+      "synCount": 156
+    },
+    {
+      "id": "general",
+      "name": "Общие слова",
+      "icon": "📝",
+      "desc": "Базовые глаголы, прилагательные и существительные русского языка",
+      "file": "packs/general.json",
+      "wordCount": 26,
+      "synCount": 130
+    }
+  ]
+}
