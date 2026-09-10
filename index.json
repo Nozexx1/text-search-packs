@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "1.0.0",
+  "catalogVersion": "2.0.0",
   "name": "TextSearch Pro — каталог синонимов",
   "author": "Nozexx1",
-  "updated": "2026-09-08",
+  "updated": "2026-09-10",
   "packs": [
     {
       "id": "ai",
@@ -16,6 +16,114 @@
       "synCount": 140,
       "language": "ru",
       "category": "technology"
+    },
+    {
+      "id": "psychology",
+      "version": "1.0.0",
+      "name": "Психология",
+      "icon": "🧠",
+      "desc": "Психологические термины, поведение, личность и ментальное здоровье",
+      "file": "psychology.json",
+      "wordCount": 30,
+      "synCount": 150,
+      "language": "ru",
+      "category": "science"
+    },
+    {
+      "id": "marketing",
+      "version": "1.0.0",
+      "name": "Маркетинг и реклама",
+      "icon": "📣",
+      "desc": "Digital-маркетинг, SMM, брендинг, реклама и продвижение",
+      "file": "marketing.json",
+      "wordCount": 30,
+      "synCount": 145,
+      "language": "ru",
+      "category": "business"
+    },
+    {
+      "id": "ecology",
+      "version": "1.0.0",
+      "name": "Экология и природа",
+      "icon": "🌿",
+      "desc": "Экологические термины, природа, климат и устойчивое развитие",
+      "file": "ecology.json",
+      "wordCount": 30,
+      "synCount": 148,
+      "language": "ru",
+      "category": "science"
+    },
+    {
+      "id": "cooking",
+      "version": "1.0.0",
+      "name": "Кулинария",
+      "icon": "🍳",
+      "desc": "Кулинарные термины, способы приготовления, вкусы и текстуры",
+      "file": "cooking.json",
+      "wordCount": 30,
+      "synCount": 150,
+      "language": "ru",
+      "category": "lifestyle"
+    },
+    {
+      "id": "sport",
+      "version": "1.0.0",
+      "name": "Спорт и фитнес",
+      "icon": "⚽",
+      "desc": "Спортивная лексика, тренировки, соревнования и физическая подготовка",
+      "file": "sport.json",
+      "wordCount": 30,
+      "synCount": 148,
+      "language": "ru",
+      "category": "lifestyle"
+    },
+    {
+      "id": "history",
+      "version": "1.0.0",
+      "name": "История и политика",
+      "icon": "🏛️",
+      "desc": "Исторические термины, политические понятия, государство и общество",
+      "file": "history.json",
+      "wordCount": 30,
+      "synCount": 150,
+      "language": "ru",
+      "category": "humanities"
+    },
+    {
+      "id": "philosophy",
+      "version": "1.0.0",
+      "name": "Философия",
+      "icon": "💡",
+      "desc": "Философские понятия, этика, логика и мировоззрение",
+      "file": "philosophy.json",
+      "wordCount": 30,
+      "synCount": 150,
+      "language": "ru",
+      "category": "humanities"
+    },
+    {
+      "id": "programming",
+      "version": "1.0.0",
+      "name": "Программирование",
+      "icon": "👨‍💻",
+      "desc": "Паттерны, алгоритмы, структуры данных и принципы разработки",
+      "file": "programming.json",
+      "wordCount": 30,
+      "synCount": 148,
+      "language": "ru",
+      "category": "technology"
+    },
+    {
+      "id": "economics",
+      "version": "1.0.0",
+      "name": "Экономика",
+      "icon": "📈",
+      "desc": "Макро и микроэкономика, рыночные термины и экономические процессы",
+      "file": "economics.json",
+      "wordCount": 30,
+      "synCount": 150,
+      "language": "ru",
+      "category": "business"
     }
   ]
 }
